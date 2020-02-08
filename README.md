@@ -1,2 +1,2 @@
-# MySite
+# Geert Ridder
 Site repository
