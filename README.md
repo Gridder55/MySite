@@ -1,4 +1,4 @@
-# Geert Ridder
+![]({{site.baseurl}}//Ridder.jpg)# Geert Ridder
 ![Ridder.jpg]({{site.baseurl}}/Ridder.jpg)
 
 Site repository
